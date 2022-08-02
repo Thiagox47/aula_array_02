@@ -65,3 +65,11 @@
     console.log(data.reverse())
    
 })();
+
+// Atividades
+
+// 1.0 -  Criar uma array com vários objetos com os seguites atributos: id, name, lastname, job, experience_old, language; (20 usuários)
+// 1.1 criar uma função que irá mostrar apenas os usuários com mais de 5 anos de experiência.
+//  1.2 - criar uma função que irá adicionar um atributo chamado able com valor true para todos os usuários com mais de 5 anos de experiência.
+// 1.3 - criar uma função que irá deletar todos os usuários que não são aptos.
+// 1.4 - criar uma função  que irá verificar se o usuário possui a linguagem Inglês e tem mais de 5 anos e irá criar uma nova array apenas com esses objetos.
